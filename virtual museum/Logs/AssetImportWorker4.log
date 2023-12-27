@@ -1,0 +1,546 @@
+Using pre-set license
+Built from '2021.3/staging' branch; Version is '2021.3.18f1 (3129e69bc0c7) revision 3221990'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19045) 64bit CoreSingleLanguage' Language: 'en' Physical Memory: 10190 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2021.3.18f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker4
+-projectPath
+D:/CAMABA UM/Skripsi/virtual museum/virtual-museum/virtual museum
+-logFile
+Logs/AssetImportWorker4.log
+-srvPort
+63302
+Successfully changed project path to: D:/CAMABA UM/Skripsi/virtual museum/virtual-museum/virtual museum
+D:/CAMABA UM/Skripsi/virtual museum/virtual-museum/virtual museum
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [14340] Host "[IP] 192.168.56.1 [Port] 0 [Flags] 2 [Guid] 2570737084 [EditorId] 2570737084 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-013ID6E) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [14340] Host "[IP] 192.168.56.1 [Port] 0 [Flags] 2 [Guid] 2570737084 [EditorId] 2570737084 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-013ID6E) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+Refreshing native plugins compatible for Editor in 255.90 ms, found 9 plugins.
+Preloading 2 native plugins for Editor in 4.17 ms.
+Initialize engine version: 2021.3.18f1 (3129e69bc0c7)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.3.18f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/CAMABA UM/Skripsi/virtual museum/virtual-museum/virtual museum/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon(TM) Vega 3 Graphics (ID=0x15d8)
+    Vendor:   ATI
+    VRAM:     5095 MB
+    Driver:   27.20.11044.5003
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.3.18f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.3.18f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.3.18f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56232
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.18f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.18f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.18f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.019967 seconds.
+Native extension for WindowsStandalone target not found
+[usbmuxd] Start listen thread
+[usbmuxd] Listen thread started
+Native extension for iOS target not found
+Native extension for Android target not found
+Android Extension - Scanning For ADB Devices 463 ms
+Refreshing native plugins compatible for Editor in 253.08 ms, found 9 plugins.
+Preloading 2 native plugins for Editor in 0.13 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.789 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1790ms)
+		BeginReloadAssembly (151ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (2ms)
+		EndReloadAssembly (1423ms)
+			LoadAssemblies (146ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (191ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (43ms)
+			SetupLoadedEditorAssemblies (1094ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (587ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (253ms)
+				BeforeProcessingInitializeOnLoad (2ms)
+				ProcessInitializeOnLoadAttributes (163ms)
+				ProcessInitializeOnLoadMethodAttributes (87ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.013057 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\CAMABA UM\Skripsi\virtual museum\virtual-museum\virtual museum\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image D:\CAMABA UM\Skripsi\virtual museum\virtual-museum\virtual museum\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Native extension for WindowsStandalone target not found
+Native extension for iOS target not found
+Native extension for Android target not found
+Refreshing native plugins compatible for Editor in 1.60 ms, found 9 plugins.
+Preloading 2 native plugins for Editor in 0.11 ms.
+Package Manager log level set to [2]
+[XR] OculusXRPlugin: registering subsystems
+[XR] Unable to register display lifecyle provider: [1]
+[XR] Oculus Input lifecycle provider registered.
+[XR] Unable to register input lifecyle provider: [1]
+[XR] OVRP version 1.89.0
+Mono: successfully reloaded assembly
+- Completed reload, in  7.427 seconds
+Domain Reload Profiling:
+	ReloadAssembly (7429ms)
+		BeginReloadAssembly (249ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (11ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (33ms)
+		EndReloadAssembly (6956ms)
+			LoadAssemblies (3770ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (1990ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (152ms)
+			SetupLoadedEditorAssemblies (974ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (54ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (2ms)
+				BeforeProcessingInitializeOnLoad (186ms)
+				ProcessInitializeOnLoadAttributes (657ms)
+				ProcessInitializeOnLoadMethodAttributes (45ms)
+				AfterProcessingInitializeOnLoad (28ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (20ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.08 seconds
+Refreshing native plugins compatible for Editor in 2.20 ms, found 9 plugins.
+Preloading 2 native plugins for Editor in 0.13 ms.
+Unloading 5086 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 59 unused Assets / (205.3 KB). Loaded Objects now: 5521.
+Memory consumption went from 183.1 MB to 182.9 MB.
+Total: 5.989200 ms (FindLiveObjects: 0.648600 ms CreateObjectMapping: 0.405700 ms MarkObjects: 4.537300 ms  DeleteObjects: 0.395600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 289640.911278 seconds.
+  path: Assets/360 photo/IMG_20231207_105440_00_133.jpg
+  artifactKey: Guid(baaf02a2a33230f4fabc494ddb5265b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/360 photo/IMG_20231207_105440_00_133.jpg using Guid(baaf02a2a33230f4fabc494ddb5265b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c59f553dd401188071b52cd7edd4dbe0') in 0.908213 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000062 seconds.
+  path: Assets/360 photo/IMG_20231207_105321_00_132.jpg
+  artifactKey: Guid(a6f18a9f3329ad04096deb4d84355cce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/360 photo/IMG_20231207_105321_00_132.jpg using Guid(a6f18a9f3329ad04096deb4d84355cce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4b31cddc54ec1f14e185537f3358de0') in 0.562627 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000064 seconds.
+  path: Assets/360 photo/IMG_20231207_105051_00_131.jpg
+  artifactKey: Guid(76aae576a73c0be449a1b7dafe5e8404) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/360 photo/IMG_20231207_105051_00_131.jpg using Guid(76aae576a73c0be449a1b7dafe5e8404) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b0f5bd8703bd9846aa3a9cfae04c28f') in 0.565030 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 63.226268 seconds.
+  path: Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Materials/XingLightMaterial.mat
+  artifactKey: Guid(b99b44499a77b3645b481d4f7d0ddf33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Materials/XingLightMaterial.mat using Guid(b99b44499a77b3645b481d4f7d0ddf33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b80abe60a4edb9ffb29bc0993ccaf5d7') in 0.132687 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 23.509119 seconds.
+  path: Assets/360 photo/Pintu depan.mat
+  artifactKey: Guid(7c88813d7dbfd5c45aae74e42eb60f32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/360 photo/Pintu depan.mat using Guid(7c88813d7dbfd5c45aae74e42eb60f32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '615b15126bd397fd2bbb28eb368ecf52') in 0.081669 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 160.400739 seconds.
+  path: Assets/360 photo/pintu depan.jpg
+  artifactKey: Guid(1733615cf1062ab4e9549cbfc9bfb4c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/360 photo/pintu depan.jpg using Guid(1733615cf1062ab4e9549cbfc9bfb4c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17efd40eda08fcf59119f57fb677c669') in 0.609419 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 88.418335 seconds.
+  path: Assets/360 photo/ruang depan.mat
+  artifactKey: Guid(c6be2be96b2a49d458872d5165f1ac10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/360 photo/ruang depan.mat using Guid(c6be2be96b2a49d458872d5165f1ac10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b065e7102020080278c28406f9250d3') in 0.035834 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 267.595124 seconds.
+  path: Assets/360 photo/New Material.mat
+  artifactKey: Guid(4c23ebc8d042ccf4faaa656b3dce06da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/360 photo/New Material.mat using Guid(4c23ebc8d042ccf4faaa656b3dce06da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37a66dd279d14d8ef33f795879c89904') in 0.046344 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 16.964779 seconds.
+  path: Assets/360 photo/tangga.mat
+  artifactKey: Guid(4c23ebc8d042ccf4faaa656b3dce06da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/360 photo/tangga.mat using Guid(4c23ebc8d042ccf4faaa656b3dce06da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fed957b34f6c2359e269f0f21ce98461') in 0.045720 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 165.367626 seconds.
+  path: Assets/360 photo/ruang 1 - 1.mat
+  artifactKey: Guid(eb935726772ddd34fa20a750fc48396f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/360 photo/ruang 1 - 1.mat using Guid(eb935726772ddd34fa20a750fc48396f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3484f6b2470435202e1e16635c1674d') in 0.039498 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 28.382600 seconds.
+  path: Assets/Oculus/LipSync/Models/RobotHead_TextureFlip/aa.png
+  artifactKey: Guid(5c06354455999f94ea26114e261dde6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/LipSync/Models/RobotHead_TextureFlip/aa.png using Guid(5c06354455999f94ea26114e261dde6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb23decba899c498022361ba43cd355b') in 0.084621 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Oculus/VR/Editor/BuildingBlocks/BlockData/CameraRig/Textures/bb_thumb_camerarig.png
+  artifactKey: Guid(e9abd002809cb87438c59a0934dc4c41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/VR/Editor/BuildingBlocks/BlockData/CameraRig/Textures/bb_thumb_camerarig.png using Guid(e9abd002809cb87438c59a0934dc4c41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71d9da38da8068e5b254bb14e28782a0') in 0.077366 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000046 seconds.
+  path: Assets/Oculus/SampleFramework/Usage/SharedAssets/Textures/ball_billiard_03_dif.jpg
+  artifactKey: Guid(6f62dbb8fce29e04fb0a99913642d116) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/SampleFramework/Usage/SharedAssets/Textures/ball_billiard_03_dif.jpg using Guid(6f62dbb8fce29e04fb0a99913642d116) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7a5a649a379030d5a155411f5a482ab') in 0.091708 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Oculus/VR/Editor/BuildingBlocks/Animations/bb_outline_03.png
+  artifactKey: Guid(c91f1eb70a4bdfb4490ddb0b55d7870d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/VR/Editor/BuildingBlocks/Animations/bb_outline_03.png using Guid(c91f1eb70a4bdfb4490ddb0b55d7870d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29c762109a2a38858269226f499c1c3c') in 0.047475 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Oculus/Interaction/Samples/Textures/Active.png
+  artifactKey: Guid(dc71c444d9062474fb77b4171c1a4a03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/Interaction/Samples/Textures/Active.png using Guid(dc71c444d9062474fb77b4171c1a4a03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '626ac7870489a701b7e9e84c3807ecd5') in 0.114118 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/Oculus/VR/Editor/BuildingBlocks/Animations/bb_outline_01.png
+  artifactKey: Guid(0df6b5d007f0c064a862ce0a7393196a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/VR/Editor/BuildingBlocks/Animations/bb_outline_01.png using Guid(0df6b5d007f0c064a862ce0a7393196a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0726f5b5a27e2b7d77d4a90ef8ef181e') in 0.067837 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000060 seconds.
+  path: Assets/Oculus/VR/Editor/BuildingBlocks/Animations/bb_outline_02.png
+  artifactKey: Guid(c3dddeff90af1e84497f7197f61cc5f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/VR/Editor/BuildingBlocks/Animations/bb_outline_02.png using Guid(c3dddeff90af1e84497f7197f61cc5f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5407fd6f8b34babc93491b742a381cc6') in 0.072324 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/Oculus/VR/Editor/BuildingBlocks/Animations/bb_outline_06.png
+  artifactKey: Guid(6c93320b42205d742a1aa9c894b1ad19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/VR/Editor/BuildingBlocks/Animations/bb_outline_06.png using Guid(6c93320b42205d742a1aa9c894b1ad19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e98df6741aa11414274304e2a300b13') in 0.048508 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Oculus/VR/Editor/BuildingBlocks/Animations/bb_outline_04.png
+  artifactKey: Guid(ac201414ee3ef3a4183f8b5f6d9e9694) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/VR/Editor/BuildingBlocks/Animations/bb_outline_04.png using Guid(ac201414ee3ef3a4183f8b5f6d9e9694) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ad902e5362ab00529f8e4c246eb5866') in 0.051028 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/Oculus/VR/Editor/BuildingBlocks/Animations/bb_outline_08.png
+  artifactKey: Guid(37b36a602d2bd604fb7a7ca6e7b4ff49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/VR/Editor/BuildingBlocks/Animations/bb_outline_08.png using Guid(37b36a602d2bd604fb7a7ca6e7b4ff49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3db4a8463e89ec4d7ff344dff5efd563') in 0.050513 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000049 seconds.
+  path: Assets/Oculus/VR/Editor/BuildingBlocks/BlockData/ControllerTracking/Textures/bb_thumb_controllertracking.png
+  artifactKey: Guid(42076419df902cf4fb1f80c04a401aac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/VR/Editor/BuildingBlocks/BlockData/ControllerTracking/Textures/bb_thumb_controllertracking.png using Guid(42076419df902cf4fb1f80c04a401aac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3fd2862c3b485dc237a418d0f708917') in 0.058340 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Oculus/VR/Editor/BuildingBlocks/Animations/bb_outline_07.png
+  artifactKey: Guid(a743f349118878d45b7b78c71abb2aa2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/VR/Editor/BuildingBlocks/Animations/bb_outline_07.png using Guid(a743f349118878d45b7b78c71abb2aa2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4dbddf38b6378282b04a7098feb01d73') in 0.050029 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Oculus/VR/Textures/MetaQuestTouchPro/batteryIndicatorTexture32.png
+  artifactKey: Guid(4005ec4dc7a14dd408f4b8f39b8a9937) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/VR/Textures/MetaQuestTouchPro/batteryIndicatorTexture32.png using Guid(4005ec4dc7a14dd408f4b8f39b8a9937) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f85ad53733d64d1a4a78ec6aea5f987') in 0.049854 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Oculus/VR/Editor/BuildingBlocks/Thumbnails/bb_thumb_default.png
+  artifactKey: Guid(a00dd5b2fe81d584c8cc0d02eaa05b7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/VR/Editor/BuildingBlocks/Thumbnails/bb_thumb_default.png using Guid(a00dd5b2fe81d584c8cc0d02eaa05b7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f844168eed5eee042f6b026b261cdede') in 0.054056 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000046 seconds.
+  path: Assets/Oculus/SampleFramework/Usage/SharedAssets/Textures/ball_billiard_10_dif.jpg
+  artifactKey: Guid(2314f2250e16c224fbaa392942901582) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/SampleFramework/Usage/SharedAssets/Textures/ball_billiard_10_dif.jpg using Guid(2314f2250e16c224fbaa392942901582) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e475a161588adf016c9c15546eebfe8c') in 0.072563 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000068 seconds.
+  path: Assets/Oculus/VR/Editor/BuildingBlocks/Animations/bb_outline_05.png
+  artifactKey: Guid(b62ea05aab642a84aa10dda65834bf55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/VR/Editor/BuildingBlocks/Animations/bb_outline_05.png using Guid(b62ea05aab642a84aa10dda65834bf55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84f4df3a3090da832e08d6a683ebf64a') in 0.045337 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.620794 seconds.
+  path: Assets/Oculus/VR/Editor/BuildingBlocks/BlockData/EyeGaze/Textures/bb_thumb_eyegaze.png
+  artifactKey: Guid(9729063c13c90d34a9b829abce2f1d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/VR/Editor/BuildingBlocks/BlockData/EyeGaze/Textures/bb_thumb_eyegaze.png using Guid(9729063c13c90d34a9b829abce2f1d0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26e70064a3df5c9886f6209cc0919b2f') in 0.068581 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Oculus/Interaction/OVRIntegration/Editor/Blocks/InteractableItems/Textures/bb_thumb_pointing.png
+  artifactKey: Guid(a52e4695e8816e7469e599e85dfae681) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/Interaction/OVRIntegration/Editor/Blocks/InteractableItems/Textures/bb_thumb_pointing.png using Guid(a52e4695e8816e7469e599e85dfae681) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52485f23a106bcddf059ee1487ad27dc') in 0.053757 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/Oculus/VR/Editor/BuildingBlocks/BlockData/HandTracking/Textures/bb_thumb_handtracking.png
+  artifactKey: Guid(d53aa1789d7879a43a2e31d261a304b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/VR/Editor/BuildingBlocks/BlockData/HandTracking/Textures/bb_thumb_handtracking.png using Guid(d53aa1789d7879a43a2e31d261a304b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c58752d3afcd646d14aeca61b063ad7d') in 0.051328 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000054 seconds.
+  path: Assets/Oculus/Interaction/OVRIntegration/Editor/Blocks/SyntheticHands/Textures/bb_thumb_synthetichands.png
+  artifactKey: Guid(876b2885201ff5e46876cfe9ea588452) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/Interaction/OVRIntegration/Editor/Blocks/SyntheticHands/Textures/bb_thumb_synthetichands.png using Guid(876b2885201ff5e46876cfe9ea588452) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '326ba23229813e7d6ace9e7503e7f9d1') in 0.045417 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/Oculus/Interaction/OVRIntegration/Editor/Blocks/InteractableItems/Textures/bb_thumb_grabbing.png
+  artifactKey: Guid(776fcad9cd9881746a5d25ac6728e9f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/Interaction/OVRIntegration/Editor/Blocks/InteractableItems/Textures/bb_thumb_grabbing.png using Guid(776fcad9cd9881746a5d25ac6728e9f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8b83a9b5609dde425b6b024ba19a96f') in 0.049730 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Oculus/VR/Editor/BuildingBlocks/Thumbnails/bb_thumb_internal.png
+  artifactKey: Guid(8b24a4b06a166964c8b3e50922d9078a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/VR/Editor/BuildingBlocks/Thumbnails/bb_thumb_internal.png using Guid(8b24a4b06a166964c8b3e50922d9078a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be09adf8756f92653b331c6d5ce3aca8') in 0.039988 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Oculus/Interaction/OVRIntegration/Editor/Blocks/InteractableItems/Textures/bb_thumb_poking.png
+  artifactKey: Guid(552e268e6438dd1498f5cd04fa8f27e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/Interaction/OVRIntegration/Editor/Blocks/InteractableItems/Textures/bb_thumb_poking.png using Guid(552e268e6438dd1498f5cd04fa8f27e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4757760bf550c71e5cd16c2664c5dd9d') in 0.045056 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/Oculus/Interaction/OVRIntegration/Editor/Blocks/InteractableItems/Textures/bb_thumb_throwing.png
+  artifactKey: Guid(53aeaeadc605a914a90f9b107d531936) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/Interaction/OVRIntegration/Editor/Blocks/InteractableItems/Textures/bb_thumb_throwing.png using Guid(53aeaeadc605a914a90f9b107d531936) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a27a279a57ae1a497317fca44c26262b') in 0.048231 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000122 seconds.
+  path: Assets/Oculus/VR/Editor/BuildingBlocks/BlockData/Passthrough/Textures/bb_thumb_passthrough.png
+  artifactKey: Guid(ce64ab3d091a156479551658e5748d77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/VR/Editor/BuildingBlocks/BlockData/Passthrough/Textures/bb_thumb_passthrough.png using Guid(ce64ab3d091a156479551658e5748d77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af7de162922110c7909e37c2c12aa9e8') in 0.047757 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Oculus/VR/Editor/BuildingBlocks/BlockData/SurfaceProjectedPassthrough/Textures/bb_thumb_projectedpassthrough.png
+  artifactKey: Guid(825e77e81aa18ae4eadc354d33d84a77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/VR/Editor/BuildingBlocks/BlockData/SurfaceProjectedPassthrough/Textures/bb_thumb_projectedpassthrough.png using Guid(825e77e81aa18ae4eadc354d33d84a77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0de4acbc6196fcbc7895ba44059ef9a3') in 0.071780 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000051 seconds.
+  path: Assets/Oculus/VR/Editor/BuildingBlocks/BlockData/VirtualKeyboard/Textures/bb_thumb_vk.png
+  artifactKey: Guid(15e1416ddcf591f488b000099283e5b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/VR/Editor/BuildingBlocks/BlockData/VirtualKeyboard/Textures/bb_thumb_vk.png using Guid(15e1416ddcf591f488b000099283e5b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95de27dec0f3b785b7dc363eae780dcd') in 0.052503 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000191 seconds.
+  path: Assets/Oculus/VR/Editor/BuildingBlocks/BlockData/RoomModel/Textures/bb_thumb_roommodel.png
+  artifactKey: Guid(7d035d588dc6b354b9045562c27847b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Oculus/VR/Editor/BuildingBlocks/BlockData/RoomModel/Textures/bb_thumb_roommodel.png using Guid(7d035d588dc6b354b9045562c27847b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed18c4f7db42603c505d36532c9cabe4') in 0.049029 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 22.560104 seconds.
+  path: Assets/360 photo/Pintu depan.mat
+  artifactKey: Guid(7c88813d7dbfd5c45aae74e42eb60f32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/360 photo/Pintu depan.mat using Guid(7c88813d7dbfd5c45aae74e42eb60f32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0aef7a3be7635540ad6c73a0947f569') in 0.562832 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/360 photo/ruang depan.mat
+  artifactKey: Guid(c6be2be96b2a49d458872d5165f1ac10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/360 photo/ruang depan.mat using Guid(c6be2be96b2a49d458872d5165f1ac10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '658f0a59735671cfe9be8d15e73fba65') in 0.521304 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000058 seconds.
+  path: Assets/360 photo/tangga.mat
+  artifactKey: Guid(4c23ebc8d042ccf4faaa656b3dce06da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/360 photo/tangga.mat using Guid(4c23ebc8d042ccf4faaa656b3dce06da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '463c3829dc556f59a82def8fae95a5e0') in 0.477301 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000063 seconds.
+  path: Assets/360 photo/ruang 1 - 1.mat
+  artifactKey: Guid(eb935726772ddd34fa20a750fc48396f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/360 photo/ruang 1 - 1.mat using Guid(eb935726772ddd34fa20a750fc48396f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c95b97394e6de77090be77021b9f0180') in 0.475871 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 600.083055 seconds.
+  path: Assets/360 photo/ruang 1 - 2.jpg
+  artifactKey: Guid(cf47cef43540041419cf77a9fbf7fa7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/360 photo/ruang 1 - 2.jpg using Guid(cf47cef43540041419cf77a9fbf7fa7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ff0491acece6f59301466e90b9b822f') in 0.148812 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 60.028194 seconds.
+  path: Assets/360 photo/ruang 1 - 2.jpg
+  artifactKey: Guid(cf47cef43540041419cf77a9fbf7fa7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/360 photo/ruang 1 - 2.jpg using Guid(cf47cef43540041419cf77a9fbf7fa7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9ba9db671757b281760a38ddd34c4eb') in 0.833438 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 452.397167 seconds.
+  path: Assets/360 photo/ruang 1 - 2.mat
+  artifactKey: Guid(db2e13182fea25849bc70c2cb93ba1f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/360 photo/ruang 1 - 2.mat using Guid(db2e13182fea25849bc70c2cb93ba1f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4dfadecde05bfa29c8255da66c9d7a39') in 0.043409 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 243.817195 seconds.
+  path: Assets/360 photo/ruang 1 - 3.mat
+  artifactKey: Guid(0f3bfc15307954b4f91d47c4ddef0d4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/360 photo/ruang 1 - 3.mat using Guid(0f3bfc15307954b4f91d47c4ddef0d4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46d13ab4e77241ac3ee4d7c158d6351b') in 0.077026 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 10.463844 seconds.
+  path: Assets/360 photo/ruang 1 - 2.mat
+  artifactKey: Guid(db2e13182fea25849bc70c2cb93ba1f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/360 photo/ruang 1 - 2.mat using Guid(db2e13182fea25849bc70c2cb93ba1f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6959d5025c9779ba22ab0eeaa5b3860f') in 0.549199 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000104 seconds.
+  path: Assets/360 photo/ruang 1 - 3.mat
+  artifactKey: Guid(0f3bfc15307954b4f91d47c4ddef0d4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/360 photo/ruang 1 - 3.mat using Guid(0f3bfc15307954b4f91d47c4ddef0d4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12ba93f370fd1f3c8f9a9a9088a57b20') in 0.036454 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000049 seconds.
+  path: Assets/360 photo/ruang 1 - 4.mat
+  artifactKey: Guid(fd52f5ebebdf1a743b1600737fbd9804) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/360 photo/ruang 1 - 4.mat using Guid(fd52f5ebebdf1a743b1600737fbd9804) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14e9913fe639eeceeac3e80143839cbc') in 0.038424 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.757900 seconds.
+  path: Assets/360 photo/ruang 1 - 5.mat
+  artifactKey: Guid(673956afed3635e438bbad96d61fa85d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/360 photo/ruang 1 - 5.mat using Guid(673956afed3635e438bbad96d61fa85d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53c67d124a988f99bf1bf0401147134b') in 0.038350 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.367636 seconds.
+  path: Assets/360 photo/ruang 1 - 6.mat
+  artifactKey: Guid(a94556c5b8fb06c4186c5b5dd16349b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/360 photo/ruang 1 - 6.mat using Guid(a94556c5b8fb06c4186c5b5dd16349b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '163fc0910582af38e49ea7254656eb15') in 0.040352 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 282.893976 seconds.
+  path: Assets/360 photo/IMG_20231207_105643_00_134.jpg
+  artifactKey: Guid(c03fe404799600b4b97fb0ec653ba329) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/360 photo/IMG_20231207_105643_00_134.jpg using Guid(c03fe404799600b4b97fb0ec653ba329) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e319f378e0ff94a34cf71ce35324721d') in 0.131825 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 93.669181 seconds.
+  path: Assets/360 photo/IMG_20231207_105643_00_134.jpg
+  artifactKey: Guid(c03fe404799600b4b97fb0ec653ba329) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/360 photo/IMG_20231207_105643_00_134.jpg using Guid(c03fe404799600b4b97fb0ec653ba329) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a10a76132e1f14124d8c7e9876a674bf') in 0.917115 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 402.562882 seconds.
+  path: Assets/360 photo/IMG_20231207_113025_00_146.jpg
+  artifactKey: Guid(5bda393c0c21d11439669ed8c8c1c53c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/360 photo/IMG_20231207_113025_00_146.jpg using Guid(5bda393c0c21d11439669ed8c8c1c53c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba18194736872c93a635110a0137b081') in 0.848040 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 952.415199 seconds.
+  path: Assets/360 photo/ruang 1 - 3.mat
+  artifactKey: Guid(0f3bfc15307954b4f91d47c4ddef0d4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/360 photo/ruang 1 - 3.mat using Guid(0f3bfc15307954b4f91d47c4ddef0d4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6afb09d20204f534485e59358d173c72') in 3.491416 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.722369 seconds.
+  path: Assets/360 photo/ruang 1 - 4.mat
+  artifactKey: Guid(fd52f5ebebdf1a743b1600737fbd9804) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/360 photo/ruang 1 - 4.mat using Guid(fd52f5ebebdf1a743b1600737fbd9804) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43e46d9b09e82e8aa2674590f2f0cc3d') in 0.814115 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/360 photo/ruang 1 - 5.mat
+  artifactKey: Guid(673956afed3635e438bbad96d61fa85d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/360 photo/ruang 1 - 5.mat using Guid(673956afed3635e438bbad96d61fa85d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8d59e9ddf4688a14a804f0861f32f22') in 0.516573 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000073 seconds.
+  path: Assets/360 photo/ruang 1 - 6.mat
+  artifactKey: Guid(a94556c5b8fb06c4186c5b5dd16349b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/360 photo/ruang 1 - 6.mat using Guid(a94556c5b8fb06c4186c5b5dd16349b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f9ec1a1302ff872c8abc64bb49137c8') in 0.576587 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 26.498221 seconds.
+  path: Assets/360 photo/tangga 2.mat
+  artifactKey: Guid(d70c73b393a77634683198b49206d941) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/360 photo/tangga 2.mat using Guid(d70c73b393a77634683198b49206d941) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec871efda76ae8e552c2a0f9175a99c0') in 0.046305 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 11.086438 seconds.
+  path: Assets/360 photo/tangga atas.mat
+  artifactKey: Guid(d70c73b393a77634683198b49206d941) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/360 photo/tangga atas.mat using Guid(d70c73b393a77634683198b49206d941) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4961e684ac2d3793a032bc5e1ff77b17') in 0.033813 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 538.568648 seconds.
+  path: Assets/360 photo/tangga atas.mat
+  artifactKey: Guid(d70c73b393a77634683198b49206d941) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/360 photo/tangga atas.mat using Guid(d70c73b393a77634683198b49206d941) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98edf29c03190955c2be2ecb50d34013') in 0.611904 seconds 
